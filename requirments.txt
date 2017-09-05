@@ -1,0 +1,6 @@
+Install
+
+caffe ("https://github.com/BVLC/caffe"  & Download pretrained model from "https://www.dropbox.com/s/z89prwhg0jpgp47/68point_dlib_with_pose.caffemodel?dl=0")
+dlib face detector (Download:"http://dlib.net/")
+opencv
+
